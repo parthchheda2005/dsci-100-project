@@ -1,4 +1,4 @@
-# dsci-100-project_template
+# dsci-100-project
 Group project by: 
 Parth Chheda
 Dehao Huang
